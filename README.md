@@ -1,6 +1,5 @@
 ## Enhancing Customer Satisfaction & Driving Sales Growth
-Strategic Insights for Instacart
-
+Strategic Insights for Instacart -
 This project analyzes customer behavior, product demand patterns, and reorder trends in Instacart's grocery platform to identify strategies that improve customer satisfaction and increase sales.
 
 Using customer analytics, competitor analysis, and machine learning–based product recommendations, the project proposes data-driven strategies to increase customer acquisition, improve reorder rates, and boost average order value (AOV).
@@ -37,7 +36,7 @@ Traffic share indicates there is room for improvement in user engagement and cus
 
 815-Presentation.Team2.pdf. (1)
 
-## The project aims to answer:
+## The project aims to answer
 
 How can Instacart increase customer acquisition?
 
@@ -61,7 +60,7 @@ Build a machine learning recommendation system to increase AOV
 
 Provide actionable growth strategies for Instacart
 
-## Dataset:
+## Dataset
 
 This project uses the Instacart Online Grocery Shopping Dataset containing:
 
@@ -138,7 +137,7 @@ Twitter
 
 3. Competitor Analysis
 
-## Key competitors analyzed:
+## Key competitors analyzed
 
 Platform	Strength	Weakness
 Amazon Fresh	Fast delivery, strong ecosystem	Higher membership cost
@@ -203,8 +202,6 @@ Organic avocados
 
 Organic whole milk 
 
-815-Presentation.Team2.pdf. (1)
-
 This indicates that fresh essentials drive repeat purchases.
 
 6. Sales Pattern Analysis
@@ -249,9 +246,7 @@ bundle promotions
 
 personalized suggestions 
 
-815-Presentation.Team2.pdf. (1)
-
-Business Strategy Recommendations
+Business Strategy Recommendations -
 Increase Customer Acquisition
 
 Strategies include:
@@ -268,7 +263,7 @@ These approaches reduce perceived delivery costs and attract new users.
 
 Increase Reorders
 
-## Key recommendations:
+## Key recommendations
 
 1. Product Bundling
 
